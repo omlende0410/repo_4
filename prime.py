@@ -17,3 +17,4 @@ prime_list = filter_prime(original_list)
 
 print("original list:",original_list)
 print("prime no list:",prime_list)
+# whyyyyyyyyyy
